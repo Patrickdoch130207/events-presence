@@ -1,4 +1,4 @@
-# 📋 Event Registration System
+# Event Registration System
 
 A full-stack web application for managing event registrations. Users can register via a form, and administrators can view, refresh, and export the list of registered users as a PDF.
 
@@ -13,7 +13,7 @@ A full-stack web application for managing event registrations. Users can registe
 
 ---
 
-## 🎯 Features
+## Features
 
 - User registration form with validation
 - Admin dashboard displaying registered users
@@ -23,26 +23,26 @@ A full-stack web application for managing event registrations. Users can registe
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
-### 📝 Registration Form Interface
+###  Registration Form Interface
 
 This is the user-facing form where attendees can register for the event.
 
-![Registration Form](./assets/registration-form.png)
+![Registration Form](presence-app/frontend/src/assets/Register_form.png)
 
 ---
 
-### 📊 Registered Users Table (Web View)
+### Registered Users Table (Web View)
 
 Admin dashboard displaying the list of registered users with options to refresh and export as PDF.
 
-![Registered Users Table](./assets/registered-users-table.png)
+![Registered Users Table](presence-app/frontend/src/assets/Register_form.png)
 
 ---
 
-### 📄 PDF Export of User List
+###  PDF Export of User List
 
 Example of the PDF generated using jsPDF, containing the list of registered users.
 
-![PDF Export](./assets/pdf-user-list.png)
+![PDF Export](presence-app/frontend/src/assets/Register_form.png)
