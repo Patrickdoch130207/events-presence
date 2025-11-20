@@ -37,7 +37,7 @@ This is the user-facing form where attendees can register for the event.
 
 Admin dashboard displaying the list of registered users with options to refresh and export as PDF.
 
-![Registered Users Table](presence-app/frontend/src/assets/Register_form.png)
+![Registered Users Table](presence-app/frontend/src/assets/registered_users_table.png)
 
 ---
 
@@ -45,4 +45,4 @@ Admin dashboard displaying the list of registered users with options to refresh 
 
 Example of the PDF generated using jsPDF, containing the list of registered users.
 
-![PDF Export](presence-app/frontend/src/assets/Register_form.png)
+![PDF Export](presence-app/frontend/src/assets/pdf-user-list.png)
